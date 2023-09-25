@@ -64,6 +64,10 @@
             },
             "development": {
               "browserTarget": "app:build:development"
+            },
+            "options": {
+              "disableHostCheck": true,
+              "host": "0.0.0.0"
             }
           },
           "defaultConfiguration": "development"
